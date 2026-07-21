@@ -1,37 +1,63 @@
-# Clinical Research Learning Portfolio
+Clinical Research Portfolio
 
-## About Me
+Elham Abbasi, MD
 
-Medical Doctor based in Denmark with experience in:
+Medical Doctor | Clinical Research | Clinical Operations | Clinical Data Management
 
-- Clinical Operations
-- Primary Healthcare
-- Clinical Research
-- Good Clinical Practice (GCP)
-- Healthcare Documentation
-- Quality Management
+About Me
 
-## Current Learning Areas
+I am a Medical Doctor based in Denmark with experience in:
 
-- Clinical Trial Operations
-- Clinical Data Management
-- GitHub Fundamentals
-- Healthcare IT Systems
-- Data Validation
-- SQL Basics
+Clinical operations
+Primary healthcare
+Public health
+Clinical documentation
+Quality-focused healthcare
+Multidisciplinary team coordination
 
-## Certifications
+My current focus is preparing for a career in Clinical Research through structured learning, practical projects and continuous professional development.
 
-- Clinical Trials: Good Clinical Practice Specialization (Novartis)
-- Fundamentals of Good Clinical Practice: Prep and Personnel (Novartis)
-- Introduction to Good Clinical Practice (Novartis)
+Current Learning Areas
 
-## Goal
+ICH-GCP
+Clinical Trial Operations
+Clinical Monitoring Fundamentals
+Clinical Data Management
+Clinical Documentation
+Regulatory Compliance
+Medical Terminology
 
-Building knowledge and practical skills for roles within:
+Current Projects
 
-- Clinical Operations
-- Clinical Research
-- Clinical Trial Management
-- Healthcare Technology
-- Application Specialist
+English–Danish Medical Terminology Database
+
+Building a structured bilingual medical terminology database for healthcare professionals.
+
+Status: In Progress
+
+Clinical Research Learning
+
+Developing structured summaries and practical notes covering:
+
+Clinical trial lifecycle
+ICH-GCP
+Clinical operations
+Clinical monitoring fundamentals
+Clinical documentation
+Clinical data management
+
+Certifications and Training
+
+Novartis Good Clinical Practice Specialization
+NIH Introduction to the Principles and Practice of Clinical Research — In Progress
+Clinical Trial Operations — In Progress
+Clinical Data Management — In Progress
+
+Career Goal
+
+My goal is to contribute to clinical research by applying medical knowledge, strong documentation practices, analytical thinking and patient-safety principles within Clinical Operations and Clinical Monitoring.
+
+Contact
+
+LinkedIn: www.linkedin.com/in/elham-abbasi
+Email: elham.abbasi.dk@gmail.com
